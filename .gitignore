@@ -1,0 +1,18 @@
+# virtualenv
+venv/
+.venv/
+
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
